@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek S managalawedhe</h1>
 <h3 align="center">💻 Computer Science Engineering Student | 🚀 Passionate Coder & Problem Solver | 📚 Learning Java & DSA | 💡 Building Innovative Projects | 🌐 Open to Collaboration</h3>
 
+<img align="right" alt="Coding" width="400" src="C:\Users\abhi\Desktop\gi.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalawedhe&label=Profile%20views&color=0e75b6&style=flat" alt="mangalawedhe" /> </p>
 
 - 🔭 I’m currently working on **DSA🧑‍💻 & Development Exploring CSE🧑‍💻**
